@@ -1,0 +1,12 @@
+com\tui\proof\ws\model\Booking.class
+com\tui\proof\ws\service\BookingServiceImpl.class
+com\tui\proof\ws\service\FlightService.class
+com\tui\proof\ws\controller\FooController.class
+com\tui\proof\ws\service\BookingService.class
+com\tui\proof\ws\model\Flight.class
+com\tui\proof\ws\model\SequenceGenerator.class
+com\tui\proof\ws\repository\BookingRepository.class
+com\tui\proof\MainApplication.class
+com\tui\proof\ws\service\FlightServiceImpl.class
+test\BookingTest.class
+com\tui\proof\ws\repository\FlightRepository.class
